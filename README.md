@@ -101,20 +101,6 @@
     </p>
 </div>
 <br>  -->
-## Anime 🙈
-
-I love to watch anime.
-
-My favorite one is Naruto. 🦊
-
-<img width="600" height="322" alt="naruto" src="https://github.com/user-attachments/assets/f43223b6-bd1d-441d-88dd-d6b097543bf8" />
-
-<!--
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rehanalik/count.svg" />
-</p>
--->
 
 <div align="center">
   <div>
@@ -136,9 +122,9 @@ My favorite one is Naruto. 🦊
     align-items: center;
     justify-content: center;">
 
-   <a href="https://www.linkedin.com/in/rehanalik/"><img style="position: relative !important;
+   <a href="https://www.linkedin.com/in/morehanalik/"><img style="position: relative !important;
     top: 5px !important; height: 42px;" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Web-Linked-in-alt-Metro-icon.png"/></a>&nbsp; 
-    <a href="https://twitter.com/Tausif4171"><img style="position: relative !important;display: flex;
+    <a href="https://x.com/morehanalik"><img style="position: relative !important;display: flex;
     align-items: center;
     justify-content: center;
     top: -6px !important;
