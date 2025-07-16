@@ -1,37 +1,36 @@
 <!-- <p align="center">Update Github Profile</p> -->
 <div align="center">
-    <h2>Hey there 👋, I'm Tausif Khan!</h2>
+    <h2>Hey there 👋, I'm Rehan Khan!</h2>
 </div>
 <div align="center">
-    <a href="https://github.com/Tausif4171">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&theme=algolia&show_icons=true&hide_border=true&count_private=true" />
+    <a href="https://github.com/rehanalik">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rehanalik&theme=algolia&show_icons=true&hide_border=true&count_private=true" />
     </a>
-<!--     <a href="https://github.com/Tausif4171/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tausif4171&repo=github-readme-stats&theme=buefy" />
+<!--     <a href="https://github.com/rehanalik/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalik&repo=github-readme-stats&theme=buefy" />
 </a> -->
     <br>
 <!--     <br> -->
-<!--    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tausif4171&theme=algolia&hide_border=true" /> -->
+<!--    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalik&theme=algolia&hide_border=true" /> -->
 <!--       <br> -->
     <br>
-   <a href="https://github.com/Tausif4171">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tausif4171&theme=algolia&show_icons=true&hide_border=true&layout=compact&exclude=php" />
+   <a href="https://github.com/rehanalik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanalik&theme=algolia&show_icons=true&hide_border=true&layout=compact&exclude=php" />
 </a>
 
 </div>
 <br>
-<h2>I'm a full-stack web developer with a passion for DevOps.</h2>
+<h2>I'm a frontend web developer with a passion for DevOps.</h2>
 <ul>
-<li> 👨‍💻 I am Tausif Khan, currently working as a Software Engineer at Stealth.design!</li>
 <li> 🌎 You can always visit me in Mumbai, India</li>
 <li> 🔭 I’m currently working on a Chat App!</li>
 <!-- <li> 🌱 I’m currently learning Single Page Application called <a href="https://reactjs.org/" target="_blank">React.js</a> and <a                     href='https://www.typescriptlang.org/docs/handbook/react.html' target="_blank">TypeScript</a></li> -->
     
 <li> 🌱 I’m currently learning Socket.IO, Tailwind CSS, NodeJS, and MongoDB!</li>
 <li> 👯 I’m looking to collaborate with other Web Developers </li>
-<li> 🥅 2024 Goals: Contribute more to Open Source Projects</li>
+<li> 🥅 2025 Goals: Contribute more to Open Source Projects</li>
 <li> ⚡ Fun fact: I love to do Open Source Contributions, Design, and Develop Front-End! </li>
-<li> 📫 You can reach out to me at <a href="mailto:tausifkhan4173@gmail.com">tausifkhan4173@gmail.com</a> </li>
+<li> 📫 You can reach out to me at <a href="mailto:morehanalik@gmail.com">morehanalik@gmail.com</a> </li>
 </ul>
 
 
@@ -113,14 +112,14 @@ My favorite one is Naruto. 🦊
 <!--
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tausif4171/count.svg" />
+  <img src="https://profile-counter.glitch.me/rehanalik/count.svg" />
 </p>
 -->
 
 <div align="center">
   <div>
     <h4>👁️ Profile Views</h4>
-    <img src="https://komarev.com/ghpvc/?username=Tausif4171&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=rehanalik&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Profile Views" />
   </div>
   
   <p>
@@ -137,7 +136,7 @@ My favorite one is Naruto. 🦊
     align-items: center;
     justify-content: center;">
 
-   <a href="https://www.linkedin.com/in/tausif4171/"><img style="position: relative !important;
+   <a href="https://www.linkedin.com/in/rehanalik/"><img style="position: relative !important;
     top: 5px !important; height: 42px;" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Web-Linked-in-alt-Metro-icon.png"/></a>&nbsp; 
     <a href="https://twitter.com/Tausif4171"><img style="position: relative !important;display: flex;
     align-items: center;
